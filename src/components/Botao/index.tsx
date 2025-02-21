@@ -10,6 +10,6 @@ class Botao extends React.Component {
         )
     }
 }
-
+/*isso e so um comentario de teste*/
 
 export default Botao;
