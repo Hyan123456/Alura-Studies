@@ -1,0 +1,4 @@
+Git init: iniciar um repositório local
+git status: exibe status
+git commit -a -m "comentário"
+git push origin main: manda o código pro git
