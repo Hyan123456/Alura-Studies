@@ -5,7 +5,7 @@ class Botao extends React.Component {
     render(){
         return(
             <button className={style.botao}>
-                Botâo
+                Botão
             </button>
         )
     }
